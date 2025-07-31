@@ -46,7 +46,7 @@ Simon-Game/
 
 ## 🌐 Live Demo
 
-🔗 [Play the Game Here](https://your-username.github.io/Simon-Game)  
+🔗 [Play the Game Here](https://rishita-paliwal.github.io/Simon-Game/)  
 
 
 ---
