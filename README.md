@@ -47,14 +47,14 @@ Simon-Game/
 ## 🌐 Live Demo
 
 🔗 [Play the Game Here](https://your-username.github.io/Simon-Game)  
-> Replace with your GitHub Pages link once published.
+
 
 ---
 
 ## 📸 Preview
 
 ![Simon Game Screenshot](preview.png)  
-> (Optional: Add a screenshot named `preview.png` in your repo root)
+
 
 ---
 
